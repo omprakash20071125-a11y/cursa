@@ -3,6 +3,8 @@
 An AI-powered personalised learning app that takes any topic, breaks it into 5 structured subtopics, fetches curated resources for each, and tests your understanding with a quiz before letting you advance.
 
 ---
+## How it looks
+<img width="1470" height="792" alt="image" src="https://github.com/user-attachments/assets/9cf04a1a-c461-4cad-ba64-6df2882e467a" />
 
 ## What It Does
 
