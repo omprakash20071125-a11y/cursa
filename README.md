@@ -4,7 +4,7 @@ An AI-powered personalised learning app that takes any topic, breaks it into 5 s
 
 ---
 ## How it looks
-<img width="1470" height="792" alt="image" src="https://github.com/user-attachments/assets/9cf04a1a-c461-4cad-ba64-6df2882e467a" />
+<img width="1470" height="832" alt="image" src="https://github.com/user-attachments/assets/f1bf3014-6f87-42be-88e6-6051e4943822" />
 
 ## What It Does
 
